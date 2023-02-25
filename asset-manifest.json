@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/CC-Ifeh/zeem/static/css/main.15b430c8.css",
-    "main.js": "/CC-Ifeh/zeem/static/js/main.27ff2c9c.js",
-    "static/media/possibility.png": "/CC-Ifeh/zeem/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/CC-Ifeh/zeem/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/CC-Ifeh/zeem/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/CC-Ifeh/zeem/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/CC-Ifeh/zeem/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/CC-Ifeh/zeem/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/me.png": "/CC-Ifeh/zeem/static/media/me.cb5404f980844bf7def9.png",
-    "static/media/logo.png": "/CC-Ifeh/zeem/static/media/logo.63924d2586930849d6c2.png",
-    "static/media/people.png": "/CC-Ifeh/zeem/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "index.html": "/CC-Ifeh/zeem/index.html",
-    "main.15b430c8.css.map": "/CC-Ifeh/zeem/static/css/main.15b430c8.css.map",
-    "main.27ff2c9c.js.map": "/CC-Ifeh/zeem/static/js/main.27ff2c9c.js.map"
+    "main.css": "/zeemKolo/static/css/main.15b430c8.css",
+    "main.js": "/zeemKolo/static/js/main.05c6ee02.js",
+    "static/media/possibility.png": "/zeemKolo/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/zeemKolo/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/zeemKolo/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/zeemKolo/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/zeemKolo/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/zeemKolo/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/me.png": "/zeemKolo/static/media/me.cb5404f980844bf7def9.png",
+    "static/media/logo.png": "/zeemKolo/static/media/logo.63924d2586930849d6c2.png",
+    "static/media/people.png": "/zeemKolo/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/zeemKolo/index.html",
+    "main.15b430c8.css.map": "/zeemKolo/static/css/main.15b430c8.css.map",
+    "main.05c6ee02.js.map": "/zeemKolo/static/js/main.05c6ee02.js.map"
   },
   "entrypoints": [
     "static/css/main.15b430c8.css",
-    "static/js/main.27ff2c9c.js"
+    "static/js/main.05c6ee02.js"
   ]
 }
